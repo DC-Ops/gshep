@@ -1,6 +1,6 @@
 package gshep
 
 func GshepBark() string {
-	sound := "Grrrr... WOOF!"
+	sound := "Grrrr... WOOF! Grrrr..."
 	return sound
 }
